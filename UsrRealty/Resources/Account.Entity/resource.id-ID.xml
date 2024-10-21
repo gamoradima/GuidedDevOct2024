@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="id-ID">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Akun" />
+			<Item Name="Columns.AccountCategory.Caption" Value="Kategori" />
+			<Item Name="Columns.AccountLogo.Caption" Value="Logo akun" />
+			<Item Name="Columns.AdditionalPhone.Caption" Value="No. Telp 2" />
+			<Item Name="Columns.Address.Caption" Value="Alamat" />
+			<Item Name="Columns.AddressType.Caption" Value="Tipe alamat" />
+			<Item Name="Columns.AlternativeName.Caption" Value="Juga dikenal sebagai" />
+			<Item Name="Columns.AnnualRevenue.Caption" Value="Pendapatan tahunan" />
+			<Item Name="Columns.AUM.Caption" Value="AUM" />
+			<Item Name="Columns.City.Caption" Value="Kota" />
+			<Item Name="Columns.Code.Caption" Value="Kode" />
+			<Item Name="Columns.Completeness.Caption" Value="Pemenuhan entri data" />
+			<Item Name="Columns.Country.Caption" Value="Negara" />
+			<Item Name="Columns.CreatedBy.Caption" Value="Dibuat oleh" />
+			<Item Name="Columns.CreatedOn.Caption" Value="Dibuat pada" />
+			<Item Name="Columns.EmployeesNumber.Caption" Value="Nomor karyawan" />
+			<Item Name="Columns.Fax.Caption" Value="Fax" />
+			<Item Name="Columns.GPSE.Caption" Value="GPS E" />
+			<Item Name="Columns.GPSN.Caption" Value="GPS N" />
+			<Item Name="Columns.Id.Caption" Value="Id" />
+			<Item Name="Columns.Industry.Caption" Value="Industri" />
+			<Item Name="Columns.Logo.Caption" Value="Logo" />
+			<Item Name="Columns.ModifiedBy.Caption" Value="Dimodifikasi oleh" />
+			<Item Name="Columns.ModifiedOn.Caption" Value="Dimodifikasi pada" />
+			<Item Name="Columns.Name.Caption" Value="Nama" />
+			<Item Name="Columns.Notes.Caption" Value="Catatan" />
+			<Item Name="Columns.Owner.Caption" Value="Pemilik" />
+			<Item Name="Columns.Ownership.Caption" Value="Entitas bisnis" />
+			<Item Name="Columns.Parent.Caption" Value="Akun induk" />
+			<Item Name="Columns.Phone.Caption" Value="No. Telp 1" />
+			<Item Name="Columns.PrimaryContact.Caption" Value="Kontak utama" />
+			<Item Name="Columns.ProcessListeners.Caption" Value="Proses aktif" />
+			<Item Name="Columns.Region.Caption" Value="Negara/provinsi" />
+			<Item Name="Columns.Type.Caption" Value="Tipe" />
+			<Item Name="Columns.Web.Caption" Value="Web" />
+			<Item Name="Columns.Zip.Caption" Value="ZIP/Kode pos" />
+		</Items>
+	</Group>
+</Resources>

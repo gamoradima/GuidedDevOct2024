@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.2b5f299b-7372-5865-3bc8-f3e452ee0302.Caption" Value="Apply filter: Region" />
+			<Item Name="AddonConfig.Rules.64683013-90a2-d544-f679-ec9c7cbf994d.Caption" Value="ChildRule-2b5f299b-7372-5865-3bc8-f3e452ee0302-ClearValue" />
+			<Item Name="AddonConfig.Rules.6b15757c-9cfe-7b53-785f-3e3d5981d977.Caption" Value="ChildRule-2b5f299b-7372-5865-3bc8-f3e452ee0302-PopulateValue" />
+			<Item Name="AddonConfig.Rules.7c2a4306-62f5-da95-5efe-62e3ee649f9d.Caption" Value="ChildRule-d666be70-97ec-4c5f-7a65-0e1b7877e98e-ClearValue" />
+			<Item Name="AddonConfig.Rules.8b430c48-103a-ffce-ea78-bd89f9e2ddb3.Caption" Value="ChildRule-d666be70-97ec-4c5f-7a65-0e1b7877e98e-PopulateValue" />
+			<Item Name="AddonConfig.Rules.b6979149-2998-9acf-2426-0a0c65e8fa71.Caption" Value="ChildRule-ee8dc8c4-8ebe-1e3e-612a-db630947cae5-PopulateValue" />
+			<Item Name="AddonConfig.Rules.cd942759-135b-52e7-87df-20cf1e35d11d.Caption" Value="ChildRule-ee8dc8c4-8ebe-1e3e-612a-db630947cae5-ClearValue" />
+			<Item Name="AddonConfig.Rules.d666be70-97ec-4c5f-7a65-0e1b7877e98e.Caption" Value="Apply filter: City" />
+			<Item Name="AddonConfig.Rules.e8a7b486-fe53-dbb6-c9f6-5b9661e39659.Caption" Value="Apply static filter: Manager" />
+			<Item Name="AddonConfig.Rules.ee8dc8c4-8ebe-1e3e-612a-db630947cae5.Caption" Value="Apply filter: City (2)" />
+			<Item Name="Caption" Value="Realty (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

@@ -4,6 +4,8 @@
 		<Items>
 			<Item Name="Caption" Value="Car body type" />
 			<Item Name="Columns.UsrCode.Caption" Value="Code" />
+			<Item Name="Columns.UsrRich.Caption" Value="Rich" />
+			<Item Name="Columns.UsrUnlimited.Caption" Value="Unlimited" />
 		</Items>
 	</Group>
 </Resources>
